@@ -3,7 +3,7 @@
 ## Practical Programming 
 Projects are from automate the boring stuff with python programming by Al Sweigart
 
-[Link to the course:](https://www.udemy.com/course/automate/learn)
+[Link to the course here](https://www.udemy.com/course/automate/learn)
 
 #### Chapters from the book:
   - Chatper 2 – Flow Control
